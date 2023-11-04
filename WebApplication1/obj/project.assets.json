@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\Repositorio_Ejemplo_sem_10\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\Repositorio_Ejemplo_sem_10\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\Repositorio_Ejemplo_sem_10\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"

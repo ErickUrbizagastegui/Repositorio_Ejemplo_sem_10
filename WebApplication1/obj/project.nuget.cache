@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1mwHVrqobFy49bj4wqo2yEiGabdhPpGoI7GnCHcjQNo4y0Ht1rJ1LoMK0xb6Wojso7ln7fkbxY4tMUaV1wooQ==",
+  "dgSpecHash": "tVmzj0mYMRSzsyzv3NImK8K7Kqsr0A9Dsr8lxP7Fro+FeM27YBBgNC813bnCFSLeBsvmuhJp4ZISJSr2SnDYJQ==",
   "success": true,
-  "projectFilePath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Ingeniería de Software\\Ciclo 7\\Aplicaciones Web\\Semana 10\\Repositorio_Ejemplo_sem_10\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
